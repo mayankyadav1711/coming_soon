@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import pic1 from "../components/images/pic-1.jpg"; // Adjust the path based on the file structure
+
 
 const Gita = () => {
   const [chapter, setChapter] = useState(1);
